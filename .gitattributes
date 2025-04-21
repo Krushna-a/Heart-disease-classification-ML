@@ -1,0 +1,6 @@
+# Always use LF line endings for notebooks
+*.ipynb text eol=lf
+
+# Optional: add these for other common file types
+*.py     text eol=lf
+*.csv    text eol=lf
